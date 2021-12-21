@@ -1,5 +1,5 @@
 Ilham Resolusi
 -konsisten ngoding
--belajar js
 -belajar git
 -perbanyak ibadah
+-membuat project
